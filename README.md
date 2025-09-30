@@ -27,7 +27,6 @@
 🔐 Etc        : Recoil, JWT, REST API, Swiper, Kakao Maps, Quill, LangChain
 ```
 
-## 📌 Projects
 
 
 ## 📈 GitHub Stats
